@@ -1,2 +1,6 @@
 # Curso-de-Python-3-do-b-sico-ao-avan-ado---com-projetos-reais
-Curso de Python 3 do básico ao avançado - com projetos reais do Professor Luiz Otávio Mirando
+###### Curso de Python 3 do básico ao avançado - com projetos reais do Professor Luiz Otávio Mirando
+
+## Seção 1: Informações e avisos importantes
+
+1. [x] 1. Informações e avisos importantes
