@@ -4,3 +4,4 @@
 ## Seção 1: Informações e avisos importantes
 
 1. [x] 1. Informações e avisos importantes
+2. [x] 2. Assista antes de prosseguir com as aulas 
