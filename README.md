@@ -5,3 +5,7 @@
 
 1. [x] 1. Informações e avisos importantes
 2. [x] 2. Assista antes de prosseguir com as aulas 
+
+## Seção 2: Python + VS Code
+
+3. [x] 3. Introdução à seção
