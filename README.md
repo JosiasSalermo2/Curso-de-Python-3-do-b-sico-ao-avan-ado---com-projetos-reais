@@ -9,3 +9,4 @@
 ## Seção 2: Python + VS Code
 
 3. [x] 3. Introdução à seção
+6. [x] 6. Windows 11 - Instalando o Python
