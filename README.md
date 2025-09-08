@@ -10,3 +10,5 @@
 
 3. [x] 3. Introdução à seção
 6. [x] 6. Windows 11 - Instalando o Python
+7. [x] 7. macOS - Instalando o Python e o VS Code
+8. [x] 8. Para iniciantes: sobre as próximas aulas de configurações
